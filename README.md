@@ -10,14 +10,11 @@
 
 ## 🔖&nbsp; Sobre
 
-Além de Marte, um sistema que apresenta as fotos recentes de Marte, nessas fotos precisam ter um botão de likes, e um contador de quantos likes determinada foto obteve, para isso você precisará conectar-se em https://api.nasa.gov/
-NASA Open APIs
+Além de Marte, um sistema que apresenta as fotos recentes de Marte, nessas fotos precisam ter um botão de likes, e um contador de quantos likes determinada foto obteve, para isso você precisará conectar-se em [API da Nasa](https://api.nasa.gov/).
 
-[Api da Nasa](https://api.nasa.gov)
-.
 Para o usuário acessar essa tela de fotos antes ele precisa ter deixado seu nome em uma tela (como se fosse um login), este nome precisa estar visível na tela, sendo possível editar o nome.
 
-Frontend - Crie um layout inspirado no Wireframe com ReactJS, apresentando as imagens, botão de likes, contador de likes, descrição da foto se houver.
+Frontend - Apresentação das imagens, botão de like, contador de likes, legenda e/ou descrição da foto se houver.
 
 ---
 
